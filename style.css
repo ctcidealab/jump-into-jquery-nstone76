@@ -1,0 +1,28 @@
+body {
+	font-family: 'Roboto', sans-serif;
+	background-color: #000;
+	color: #FFF;
+}
+
+h1 {
+	color: orange;
+}
+
+.reason {
+	font-weight: bold;
+}
+
+#mainpicture {
+  float: left;
+  margin: 0 2em;
+}
+
+.vanilla {
+  background-color: #FFFFFF;
+  color: black;
+}
+
+.chocolate {
+  background-color: #665E45;
+  color: white;
+}
